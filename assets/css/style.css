@@ -217,7 +217,9 @@ textarea {
 	padding:4px;
 	font-family: inherit;
 	border: 1px solid #cccccc;
+	width:90%;
 }
+
 
 /*** PORTFOLIO PAGE ***/
 .portfolio-row {
